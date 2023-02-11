@@ -231,7 +231,7 @@ gradeaj($AJ);
 gradeaad($AAD);
 gradephp($PHP);
 gradeprj($PRJ);
-grade();
+grade(); //This is copy of hansil program
            ?>
    </body>
 </html>
